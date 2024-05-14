@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background: #1f1f1f;
+    width: 384px;
+    height: 611px;
+    top: 174px;
+    margin-left: 528px;
+    padding: 40px;
+    gap: 24px;
+    border-radius: 12px;    
+}
+
+.container img {
+    width: 88px;
+    height: 88px;
+    gap: 0px;
+    border-radius: 999px;
+    opacity: 0px;
+    display: block;
+    margin: auto;
+}
+
+.container h1 {
+    color: #ffffff;
+    
+}
